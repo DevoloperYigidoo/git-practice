@@ -1,1 +1,3 @@
 git practice dosyası oluşturulmuştur
+
+git tekrarları devam ediyor 
